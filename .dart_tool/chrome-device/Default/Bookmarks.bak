@@ -1,0 +1,106 @@
+{
+   "checksum": "ac3eaee462b4566dd8fd638e28a0ae8a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294333041611246",
+            "date_last_used": "0",
+            "guid": "1886f030-cef2-4921-a5c4-b7599050bb1c",
+            "id": "6",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13294337238045633",
+            "date_last_used": "0",
+            "guid": "d13465f4-37e5-4151-b5d8-9c1d949359e7",
+            "id": "7",
+            "name": "Child Transportation Service Business Plan [Sample Template for 2022]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.profitableventure.com/child-transportation-business-plan/",
+            "visit_count": 0
+         }, {
+            "date_added": "13294685903948923",
+            "date_last_used": "0",
+            "guid": "777c4671-ae9d-4355-8093-074d10a39d8e",
+            "id": "8",
+            "name": "Child Transportation Service Business Plan - Mission statement, Management, Executive summary, Survey results",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.referenceforbusiness.com/business-plans/Business-Plans-Volume-04/Child-Transportation-Service.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13294686001872850",
+            "date_last_used": "0",
+            "guid": "bece4b23-9f72-4240-9155-f7418dee8827",
+            "id": "9",
+            "name": "9 Awesome Tips To Start A School Transportation Business",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fleetroot.com/blog/9-awesome-tips-to-start-a-school-transportation-business/",
+            "visit_count": 0
+         }, {
+            "date_added": "13294689083403995",
+            "date_last_used": "0",
+            "guid": "7c1685fc-a741-4b58-97e4-265e8a3ce1e3",
+            "id": "10",
+            "name": "Child Transportation Service: Kid Cart | Encyclopedia.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.encyclopedia.com/entrepreneurs/news-wires-white-papers-and-books/child-transportation-service-kid-cart#:~:text=Kid%20Cart%20is%20a%20transportation,activities%2C%20recreational%20programs%2C%20etc.",
+            "visit_count": 0
+         }, {
+            "date_added": "13297601099618797",
+            "date_last_used": "0",
+            "guid": "50c2f3ad-2374-460f-91f7-8b1e58c716cd",
+            "id": "11",
+            "name": "Business Growth strategy of Nike: A case study",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://notesmatic.com/business-growth-strategy-of-nike-a-case-study/#:~:text=1%20Marketing%3A%20Marketing%20is%20one%20of%20the%20core,just%20create%20great%20products.%20...%20More%20items...%20",
+            "visit_count": 0
+         } ],
+         "date_added": "13376075143496066",
+         "date_last_used": "0",
+         "date_modified": "13297601099618797",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376075143496073",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376075143496076",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCPlIeiuTAQAAKg4QABgBIAAoBTAAOABAABIAKhgxQ2tCbWl6Sm44OHhwWHFzUjhSdHZnPT1IA6AGDBKtAQgKEqgBChxtZWo4bVMyaUJOajBVcWpxR1dsQU5TMkgyZTA9EiQ3YzE2ODVmYy1hNzQxLTRiNTgtOTdlNC0yNjVlOGEzY2UxZTMYACAAKAAwmv/IqdYxOIGSm5uJMECBkpubiTBKHFhKUUt5SVY1UDZ1Ym1jV1p1bE95SjI1TXl0cz1aHyId/VUzWm1jYjRJQmM3RzU3ald3cmppZmJ2NG4rWT1l1c1OPMI+AmAFEq0BCAkSqAEKHElhYm9HRWJSbU1VU2NlR1A1ZEVQK0pSS3ZhYz0SJGJlY2U0YjIzLTlmNzItNDI0MC05MTU1LWY3NDE4ZGVlODgyNxgAIAAoADD9j5ubiTA4wpGbm4kwQMKRm5uJMEocaGF6K3Z6bGVTcjFaMzB4SVc3TkxLdk5CUHFvPVofIh32YW1IdUhxYkNpam9VV0hNeUFDNE44Q0FIUkxnPWWA+Q15wj4CYAUSrgEICxKpAQocYnZLKzN4UGY3aThOVWYyUm4zSkVMU0ZWYXVBPRIkNTBjMmYzYWQtMjM3NC00NjBmLTkxZjctOGIxZTU4YzcxNmNkGAAgACgAMPi5z7COMDikus+wjjBApLrPsI4wShx0ZHNOR1BWVXcyVm1hbUFmWW02Zm04cDRsOWc9WiAiHv+7MldwaTdTYTFtVjYwYTZRTlMyb1V5SEZSM3V3PWXSkcUswj4CYAUSrQEICBKoAQocVjBKZGlhQjdabHFKYUp5M1VhbGpUcE13NEJZPRIkNzc3YzQ2NzEtYWU5ZC00MzU1LTgwOTMtMDc0ZDEwYTM5ZDhlGAAgACgAMP2Pm5uJMDijkZubiTBAo5Gbm4kwShx4WnlhQjc0S214VnNTYmxnaUZ4ZUdXTWlFWlk9Wh8iHe16aXcya0FJQ2FZSDczUStQOEZETXJnS2FDaDQ9Zeqqb+rCPgJgBRKtAQgHEqgBChxGUmV4ZGNid2VuVS9BVWkvMDB5YS9ub1lON009EiRkMTM0NjVmNC0zN2U1LTQxNTEtYjVkOC05YzFkOTQ5MzU5ZTcYACAAKAAw/Y+bm4kwOJSRm5uJMECUkZubiTBKHHpDRGRIUlZOZW44aDk1Z25ZalRYOFIzQWZ4TT1aHyId2kYzbHBtcXlSaUQyWTNtR0RqVkdJdFRFRUFBVT1lyC7Y9sI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGM4NjU2ZTNhLWVmNzYtNTg3Mi1iMDhhLTFmZGIzOGJjYmQzOBgAIAAoADDunNaczy44rfa5s/IvQK32ubPyL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgGEqgBChxHMTltVTlIRUNBLzhIdmtxMEwxMk1OMWxzR2s9EiQxODg2ZjAzMC1jZWYyLTQ5MjEtYTVjNC1iNzU5OTA1MGJiMWMYACAAKAAw/Y+bm4kwONKRm5uJMEDSkZubiTBKHDc3eUNQTUtQVkVQZHpscWlsWExNc1F5bnVVRT1aHyIdtTJSeFVISlYrdTZ0OHBucm51V3prMGNtbk94UT1lOPk5M8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGQ0YTQ5YjIwLTIzMmItNWNmZS04ZDM2LTlmOTVkMjYwOGY1ZRgAIAAoADDpnNaczy44v/W5s/IvQL/1ubPyL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRmMTQxZTBkNy1kMzdiLTU3MWMtYmU2Ni0xNzJmNjFlZjYxZTkYACAAKAAw6pzWnM8uOO71ubPyL0Du9bmz8i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}

@@ -1,0 +1,33 @@
+com.example.cash_book_expense_tracker.app-lifecycle-livedata-core-2.7.0-0 C:\Users\USER\.gradle\caches\transforms-3\01a74f20a6faddcda4b22807747e52ae\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.cash_book_expense_tracker.app-jetified-profileinstaller-1.3.1-1 C:\Users\USER\.gradle\caches\transforms-3\158db0a12534ebff515806a185bc3659\transformed\jetified-profileinstaller-1.3.1\res
+com.example.cash_book_expense_tracker.app-jetified-core-1.0.0-2 C:\Users\USER\.gradle\caches\transforms-3\160979c04ba365d1b3fbdc9416786211\transformed\jetified-core-1.0.0\res
+com.example.cash_book_expense_tracker.app-jetified-activity-1.8.1-3 C:\Users\USER\.gradle\caches\transforms-3\16a9389e546907ebce1a6303618afb14\transformed\jetified-activity-1.8.1\res
+com.example.cash_book_expense_tracker.app-lifecycle-runtime-2.7.0-4 C:\Users\USER\.gradle\caches\transforms-3\36a5695426786a7aeb0bcc7e8775f7b9\transformed\lifecycle-runtime-2.7.0\res
+com.example.cash_book_expense_tracker.app-jetified-savedstate-1.2.1-5 C:\Users\USER\.gradle\caches\transforms-3\3c48f08fa965d0987976ac8dea3dbfc1\transformed\jetified-savedstate-1.2.1\res
+com.example.cash_book_expense_tracker.app-core-runtime-2.2.0-6 C:\Users\USER\.gradle\caches\transforms-3\48ef1bd0631f8d94b31d567740be1a69\transformed\core-runtime-2.2.0\res
+com.example.cash_book_expense_tracker.app-jetified-annotation-experimental-1.4.0-7 C:\Users\USER\.gradle\caches\transforms-3\61e3bd59142bba736c7cd9762dabd812\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.cash_book_expense_tracker.app-lifecycle-viewmodel-2.7.0-8 C:\Users\USER\.gradle\caches\transforms-3\6995e2d207ad9ace635f8292236b8a73\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.cash_book_expense_tracker.app-fragment-1.7.1-9 C:\Users\USER\.gradle\caches\transforms-3\72098f76508556d12a2891035288aea1\transformed\fragment-1.7.1\res
+com.example.cash_book_expense_tracker.app-jetified-tracing-1.2.0-10 C:\Users\USER\.gradle\caches\transforms-3\77fd2135b5dcc10fb2a0f09a12c2c049\transformed\jetified-tracing-1.2.0\res
+com.example.cash_book_expense_tracker.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-11 C:\Users\USER\.gradle\caches\transforms-3\793c01f2db7f8a3373c34840692742e0\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.cash_book_expense_tracker.app-core-1.13.1-12 C:\Users\USER\.gradle\caches\transforms-3\845d8781a9d93da0175b97f11e182313\transformed\core-1.13.1\res
+com.example.cash_book_expense_tracker.app-jetified-window-java-1.2.0-13 C:\Users\USER\.gradle\caches\transforms-3\8beab7d288653da1fbacd8de1f169214\transformed\jetified-window-java-1.2.0\res
+com.example.cash_book_expense_tracker.app-jetified-datastore-preferences-1.0.0-14 C:\Users\USER\.gradle\caches\transforms-3\8d5bf54dbe5c21de7a1e8e5ac83385b5\transformed\jetified-datastore-preferences-1.0.0\res
+com.example.cash_book_expense_tracker.app-jetified-datastore-1.0.0-15 C:\Users\USER\.gradle\caches\transforms-3\b279334b773109a175657bb4eaeb7c87\transformed\jetified-datastore-1.0.0\res
+com.example.cash_book_expense_tracker.app-jetified-lifecycle-process-2.7.0-16 C:\Users\USER\.gradle\caches\transforms-3\bd10000cb305a71fc3d3d76c3f764f80\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.cash_book_expense_tracker.app-jetified-window-1.2.0-17 C:\Users\USER\.gradle\caches\transforms-3\c7673693b61595893756d456222a2360\transformed\jetified-window-1.2.0\res
+com.example.cash_book_expense_tracker.app-jetified-core-ktx-1.13.1-18 C:\Users\USER\.gradle\caches\transforms-3\e7cfa0144233fdce3c5f7988e051a0bb\transformed\jetified-core-ktx-1.13.1\res
+com.example.cash_book_expense_tracker.app-lifecycle-livedata-2.7.0-19 C:\Users\USER\.gradle\caches\transforms-3\f7e41b3fca970b3278c93f755fd49a0f\transformed\lifecycle-livedata-2.7.0\res
+com.example.cash_book_expense_tracker.app-jetified-lifecycle-livedata-core-ktx-2.7.0-20 C:\Users\USER\.gradle\caches\transforms-3\f94f0a59f4703d3683cdf34e9fce74a7\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.cash_book_expense_tracker.app-jetified-startup-runtime-1.1.1-21 C:\Users\USER\.gradle\caches\transforms-3\ffb65a5a4cd8a401c7f493da902d1966\transformed\jetified-startup-runtime-1.1.1\res
+com.example.cash_book_expense_tracker.app-debug-22 D:\Flutter projects\cash_book_expensive_tracker\android\app\src\debug\res
+com.example.cash_book_expense_tracker.app-main-23 D:\Flutter projects\cash_book_expensive_tracker\android\app\src\main\res
+com.example.cash_book_expense_tracker.app-pngs-24 D:\Flutter projects\cash_book_expensive_tracker\build\app\generated\res\pngs\debug
+com.example.cash_book_expense_tracker.app-resValues-25 D:\Flutter projects\cash_book_expensive_tracker\build\app\generated\res\resValues\debug
+com.example.cash_book_expense_tracker.app-rs-26 D:\Flutter projects\cash_book_expensive_tracker\build\app\generated\res\rs\debug
+com.example.cash_book_expense_tracker.app-mergeDebugResources-27 D:\Flutter projects\cash_book_expensive_tracker\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.cash_book_expense_tracker.app-mergeDebugResources-28 D:\Flutter projects\cash_book_expensive_tracker\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.cash_book_expense_tracker.app-merged_res-29 D:\Flutter projects\cash_book_expensive_tracker\build\app\intermediates\merged_res\debug
+com.example.cash_book_expense_tracker.app-packaged_res-30 D:\Flutter projects\cash_book_expensive_tracker\build\path_provider_android\intermediates\packaged_res\debug
+com.example.cash_book_expense_tracker.app-packaged_res-31 D:\Flutter projects\cash_book_expensive_tracker\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.cash_book_expense_tracker.app-packaged_res-32 D:\Flutter projects\cash_book_expensive_tracker\build\sqflite_android\intermediates\packaged_res\debug

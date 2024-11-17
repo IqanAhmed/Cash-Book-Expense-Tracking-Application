@@ -1,0 +1,84 @@
+{
+   "checksum": "5b63dd3590d7c7adf3cb88e6119106b0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294333041611246",
+            "date_last_used": "0",
+            "guid": "1886f030-cef2-4921-a5c4-b7599050bb1c",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13294337238045633",
+            "date_last_used": "0",
+            "guid": "d13465f4-37e5-4151-b5d8-9c1d949359e7",
+            "id": "7",
+            "name": "Child Transportation Service Business Plan [Sample Template for 2022]",
+            "type": "url",
+            "url": "https://www.profitableventure.com/child-transportation-business-plan/"
+         }, {
+            "date_added": "13294685903948923",
+            "date_last_used": "0",
+            "guid": "777c4671-ae9d-4355-8093-074d10a39d8e",
+            "id": "8",
+            "name": "Child Transportation Service Business Plan - Mission statement, Management, Executive summary, Survey results",
+            "type": "url",
+            "url": "https://www.referenceforbusiness.com/business-plans/Business-Plans-Volume-04/Child-Transportation-Service.html"
+         }, {
+            "date_added": "13294686001872850",
+            "date_last_used": "0",
+            "guid": "bece4b23-9f72-4240-9155-f7418dee8827",
+            "id": "9",
+            "name": "9 Awesome Tips To Start A School Transportation Business",
+            "type": "url",
+            "url": "https://fleetroot.com/blog/9-awesome-tips-to-start-a-school-transportation-business/"
+         }, {
+            "date_added": "13294689083403995",
+            "date_last_used": "0",
+            "guid": "7c1685fc-a741-4b58-97e4-265e8a3ce1e3",
+            "id": "10",
+            "name": "Child Transportation Service: Kid Cart | Encyclopedia.com",
+            "type": "url",
+            "url": "https://www.encyclopedia.com/entrepreneurs/news-wires-white-papers-and-books/child-transportation-service-kid-cart#:~:text=Kid%20Cart%20is%20a%20transportation,activities%2C%20recreational%20programs%2C%20etc."
+         }, {
+            "date_added": "13297601099618797",
+            "date_last_used": "0",
+            "guid": "50c2f3ad-2374-460f-91f7-8b1e58c716cd",
+            "id": "11",
+            "name": "Business Growth strategy of Nike: A case study",
+            "type": "url",
+            "url": "https://notesmatic.com/business-growth-strategy-of-nike-a-case-study/#:~:text=1%20Marketing%3A%20Marketing%20is%20one%20of%20the%20core,just%20create%20great%20products.%20...%20More%20items...%20"
+         } ],
+         "date_added": "13376075143496066",
+         "date_last_used": "0",
+         "date_modified": "13297601099618797",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376075143496073",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376075143496076",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
